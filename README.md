@@ -1,4 +1,4 @@
-# 🚀 CardStack
+# 🚀 Card Stack
 
 > A short tagline that explains what the project does.
 
